@@ -30,6 +30,14 @@ public class Teacher {
 		}
 	}
 	
+	public static void goldmanClasses() {
+		String[] goldman = {"PreCalc-5","PreCalc-4","Algebra-7"};
+		Arrays.sort(goldman);
+		for(int i=0;i < goldman.length; i++) {
+			System.out.println(goldman[i]);
+		}
+	}
+	
 	/**
 	 * Written By Haadi Khan
 	 */

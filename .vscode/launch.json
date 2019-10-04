@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ObjectArray",
+            "request": "launch",
+            "mainClass": "ObjectArray",
+            "projectName": "wpilib-entrance-test-Haadi-Khan_225f0d62"
+        }
+    ]
+}

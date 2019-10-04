@@ -35,16 +35,6 @@ public class Student {
 			System.out.println(classesEnrolledIn[i]);
 		}
 	}
-	
-	public void heather(String className, int grade, int year,int date) {
-		this.className= className;
-		this.grade = grade;
-		this.year = year;
-		
-	}
-	public static void heatherElementary() {
-		
-	}
 	/**
 	 *  Written By Haadi Khan
 	 */
